@@ -1,3 +1,3 @@
-Hola. Soy José Mario Uzcátegui. Estoy aprendiendo Desarrollo Web en Django.
+Hola. Soy José Mario Uzcátegui. Estoy aprendiendo Desarrollo Web con JavaScript y React.
 
 
